@@ -1,3 +1,7 @@
+# Objective
+
+Throughout the course I'll be keeping my projects **in this repository**. I want to **document and showcase** my skills while tracking my progress **from day one**.
+
 # The course
 
 This is the **Complete Web Development Bootcamp**, the course I'm using to learn how to code and become a **full-stack web developer**. With **150,000+ ratings and a 4.8 average**, this Web Development course is one of the **HIGHEST RATED** courses in the history of Udemy!
@@ -81,7 +85,3 @@ This is a really renowned course. Take the word of some students to it.
 > "It's a different approach to teaching Web Development. I like that you are given everything possible to succeed from the onset." - Ronick Thomas
 
 > The tutor is simply AMAZING, by far the best tutor I have ever had. I would give her 10 stars out of 5. She is not just punching the code and talking to herself, but she is actually explaining things. She keeps on giving really useful hints and she will give you a great load of other references. I always knew what I was doing and why I was doing it. All the extra challenges have just made me remember and understand things better. - Peter Dlugos
-
-# Objective
-
-Throughout the course I'll be keeping my projects **in this repository**. I want to **document and showcase** my skills while tracking my progress **from day one**.
