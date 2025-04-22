@@ -51,7 +51,7 @@ By the end of this course, I will be **fluently programming** and be ready to ma
 
 I'm also building a portfolio of over **32+ websites** that I can show off to any potential employer.
 
-# The course contains:
+# The course contains
 
 - **Animated** Video Lectures;
 - Code **Challenges** and Coding Exercises;
