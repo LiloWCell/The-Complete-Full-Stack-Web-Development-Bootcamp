@@ -1,6 +1,6 @@
 # Objective
 
-Throughout the course I'll be keeping my projects **in this repository**. I want to **document and showcase** my skills while tracking my progress **from day one**.
+Throughout the course I'll be keeping my projects **in this repository**. I want to **document and showcase** my skills while tracking my progress **from day one** (while learning how to use GitHub too).
 
 # The course
 
