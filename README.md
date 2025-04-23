@@ -62,7 +62,7 @@ I'm also building a portfolio of over **32+ websites** that I can show off to an
 - Beautiful **Real-World Projects**;
 - Quizzes & **Practice Tests**;
 - Downloadable Programming Resources and Cheatsheets;
-- Our best selling 12 Rules to Learn to Code eBook;
+- The best selling 12 Rules to Learn to Code eBook;
 - **12,000 USD+ worth** of web development bootcamp course materials and course curriculum.
 
 
