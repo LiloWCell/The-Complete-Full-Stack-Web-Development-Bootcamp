@@ -4,7 +4,7 @@ The following document explains the HTML boilerplate with an **explanation of th
 
 ---
 
-![Boilerplate](/assets/index.png "index.html")
+![Boilerplate](./assets/index.png "index.html")
 
 ## `<!DOCTYPE html>`
 This is the **document type** declaration. It **tells** the browser that this is an HTML5 document.
